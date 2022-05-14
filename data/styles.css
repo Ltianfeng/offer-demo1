@@ -9,12 +9,7 @@
 }
 .box_1 {
 }
-.box_2 {
-}
 .image {
-}
-.primary_button {
-  color:#FFFFFF;
 }
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
@@ -64,16 +59,7 @@
 .paragraph {
   text-align:left;
 }
-.table_cell {
-}
-.icon {
-}
-.image1 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:normal;
-  font-style:normal;
-  font-size:13px;
-  color:#000000;
+.line {
 }
 .label1 {
   font-size:14px;
@@ -83,10 +69,10 @@
   color:#000000;
   text-align:left;
 }
-.checkbox {
-  text-align:left;
-}
-.flow_shape {
-}
-.button {
+.image1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
 }
